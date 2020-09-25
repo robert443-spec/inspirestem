@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/inspirestem",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

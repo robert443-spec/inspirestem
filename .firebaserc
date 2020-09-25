@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "cover-ccaf2": {
+      "hosting": {
+        "inspirestem": [
+          "cover-ccaf2"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "inspirestem-9e749"
+  }
+}
